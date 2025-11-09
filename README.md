@@ -217,6 +217,12 @@ First Load the data into Power Bi.
    -**2-Wheelers** dominate the market,making up nearly 50% of total sales.
    --Northern and Western states (Uttra Pradesh,Maharashtra,Karnataka) are leading contributers.
    --Consistent YoY growth indicates a postive trend in EV adoption nationwide.
+
+   # Electric Vehicle Market Analysis (India)
+   ## Power BI Dashboard
+   <p align="center">
+   ![EV Dashboard](https://github.com/YOGESHVA/Electric-Vehicle-Market-Analysis-India-/blob/040f89efa64d908c7a8e00a5691cd9bca30d7f86/EV%20Sales%20Analysis.png?raw=true)
+</p>
    
 
 
