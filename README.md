@@ -220,9 +220,8 @@ First Load the data into Power Bi.
 
    # Electric Vehicle Market Analysis (India)
    ## Power BI Dashboard
-   <p align="center">
    ![EV Dashboard](https://github.com/YOGESHVA/Electric-Vehicle-Market-Analysis-India-/blob/040f89efa64d908c7a8e00a5691cd9bca30d7f86/EV%20Sales%20Analysis.png?raw=true)
-</p>
+
    
 
 
